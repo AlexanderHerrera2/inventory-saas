@@ -1,0 +1,1 @@
+// Este archivo se encarga de manejar la petición de datos como el get y hara el llamado al service

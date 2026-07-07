@@ -1,0 +1,1 @@
+Se desarrolló una arquitectura modular para separar las funcionalidades del sistema por dominios de negocio (Company, Product, User, Sale, etc.). Cada módulo contiene sus propias rutas, controladores, servicios, repositorios y validaciones, facilitando el mantenimiento, la escalabilidad y el trabajo en equipo.

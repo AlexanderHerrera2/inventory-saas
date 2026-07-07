@@ -1,0 +1,1 @@
+// Tipos propios del modulo
